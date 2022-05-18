@@ -1,0 +1,3 @@
+python
+vitualenv
+django
